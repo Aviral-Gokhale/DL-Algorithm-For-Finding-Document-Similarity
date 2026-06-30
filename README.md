@@ -1,4 +1,4 @@
-# Deep learning for finding document similarity
+# Deep learning Algorithm for finding document similarity
 A robust, framework developed to assess document similarity, sort documents, and detect potential fraud by comparing test files against original templates. The system uniquely leverages a dual-stream pipeline—combining textual data extracted via Tesseract OCR and visual structural features extracted via a Convolutional Neural Network (CNN)—to compute an accurate, multi-layered similarity score.
 
 🚀 Key Features
